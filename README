@@ -1,0 +1,10 @@
+Six degrees of Kevin bacon game, implemented on a graph.
+
+Starter code for Kevin.java is written by Peter Froehlich (http://gaming.jhu.edu/~phf/)
+Everything in the solveBacon() method is my own, everything else is his.
+
+Given a data set (two are included), and an actor, the program sees how many degrees of
+separation there are between the actor and Kevin Bacon. Kevin Bacon has a bacon number of 0,
+somebody who has acted in a movie with him has a bacon number of 1, somebody who has
+acted in a movie that has an actor that acted with him has a number of 2, and so on and so forth.
+It is posited that no (recent) actor has more than six degrees of separation with him.
