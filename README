@@ -9,3 +9,20 @@ separation there are between the actor and Kevin Bacon. Kevin Bacon has a bacon 
 somebody who has acted in a movie with him has a bacon number of 1, somebody who has
 acted in a movie that has an actor that acted with him has a number of 2, and so on and so forth.
 It is posited that no (recent) actor has more than six degrees of separation with him.
+
+Usage:
+	java Kevin [data file name] ["actor name"]
+Example:
+	java Kevin action06.txt "De Rosselli, Rex"
+Output:
+	De Rosselli, Rex
+	Lion's Claws, The (1918)
+	Brinley, Charles
+	Adventure in Sahara (1938)
+	Lawrence, Marc (I)
+	Big Easy, The (1987)
+	Goodman, John (I)
+	Death Sentence (2007)
+	Bacon, Kevin
+
+Please note that running it on a large data set can take up to a minute.
