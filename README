@@ -1,4 +1,5 @@
 Six degrees of Kevin bacon game, implemented on a graph.
+https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon
 
 Starter code for Kevin.java is written by Peter Froehlich (http://gaming.jhu.edu/~phf/)
 Everything in the solveBacon() method is my own, everything else is his.
